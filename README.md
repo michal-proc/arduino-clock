@@ -3,4 +3,5 @@
 -Arduino Uno,<br>
 -Display LCD 2x16 HD44780,<br>
 -Converter I2C LCM1602,<br>
--Real time clock DS1302 RTC,<br>
+-Temperature and humidity sensor DHT22,<br>
+-Real time clock DS1302 RTC.<br>
