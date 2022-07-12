@@ -2,7 +2,7 @@
 It's created in Arduino clock, which show also current date, temperature and 
 humidity in room.
 <br></br>
-To create this clock in Arduino i used:
+To create this clock in Arduino i used:<br>
 -Arduino Uno,<br>
 -Display LCD 2x16 HD44780,<br>
 -Converter I2C LCM1602,<br>
